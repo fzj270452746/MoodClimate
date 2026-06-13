@@ -1,0 +1,5839 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "Jockisye",
+    "printedName": "Jockisye",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Jockisye"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Gtcuueos",
+        "printedName": "Gtcuueos",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "r0",
+            "printedName": "r0",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Jockisye.Gtcuueos.Type) -> Jockisye.Gtcuueos",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Gtcuueos",
+                    "printedName": "Jockisye.Gtcuueos",
+                    "usr": "s:8Jockisye8GtcuueosO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Jockisye.Gtcuueos.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Gtcuueos",
+                        "printedName": "Jockisye.Gtcuueos",
+                        "usr": "s:8Jockisye8GtcuueosO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:8Jockisye8GtcuueosO2r0yA2CmF",
+            "mangledName": "$s8Jockisye8GtcuueosO2r0yA2CmF",
+            "moduleName": "Jockisye",
+            "fixedbinaryorder": 0
+          },
+          {
+            "kind": "Var",
+            "name": "r1",
+            "printedName": "r1",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Jockisye.Gtcuueos.Type) -> Jockisye.Gtcuueos",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Gtcuueos",
+                    "printedName": "Jockisye.Gtcuueos",
+                    "usr": "s:8Jockisye8GtcuueosO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Jockisye.Gtcuueos.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Gtcuueos",
+                        "printedName": "Jockisye.Gtcuueos",
+                        "usr": "s:8Jockisye8GtcuueosO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:8Jockisye8GtcuueosO2r1yA2CmF",
+            "mangledName": "$s8Jockisye8GtcuueosO2r1yA2CmF",
+            "moduleName": "Jockisye",
+            "fixedbinaryorder": 1
+          },
+          {
+            "kind": "Var",
+            "name": "r2",
+            "printedName": "r2",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Jockisye.Gtcuueos.Type) -> Jockisye.Gtcuueos",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Gtcuueos",
+                    "printedName": "Jockisye.Gtcuueos",
+                    "usr": "s:8Jockisye8GtcuueosO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Jockisye.Gtcuueos.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Gtcuueos",
+                        "printedName": "Jockisye.Gtcuueos",
+                        "usr": "s:8Jockisye8GtcuueosO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:8Jockisye8GtcuueosO2r2yA2CmF",
+            "mangledName": "$s8Jockisye8GtcuueosO2r2yA2CmF",
+            "moduleName": "Jockisye",
+            "fixedbinaryorder": 2
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Gtcuueos",
+                "printedName": "Jockisye.Gtcuueos",
+                "usr": "s:8Jockisye8GtcuueosO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Gtcuueos",
+                "printedName": "Jockisye.Gtcuueos",
+                "usr": "s:8Jockisye8GtcuueosO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye8GtcuueosO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s8Jockisye8GtcuueosO2eeoiySbAC_ACtFZ",
+            "moduleName": "Jockisye",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye8GtcuueosO9hashValueSivp",
+            "mangledName": "$s8Jockisye8GtcuueosO9hashValueSivp",
+            "moduleName": "Jockisye",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Jockisye8GtcuueosO9hashValueSivg",
+                "mangledName": "$s8Jockisye8GtcuueosO9hashValueSivg",
+                "moduleName": "Jockisye",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye8GtcuueosO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s8Jockisye8GtcuueosO4hash4intoys6HasherVz_tF",
+            "moduleName": "Jockisye",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:8Jockisye8GtcuueosO",
+        "mangledName": "$s8Jockisye8GtcuueosO",
+        "moduleName": "Jockisye",
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "isEnumExhaustive": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Jniucuos",
+        "printedName": "Jniucuos",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Jniucuos",
+                "printedName": "Jockisye.Jniucuos",
+                "usr": "s:8Jockisye8JniucuosC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye8JniucuosC6sharedACvpZ",
+            "mangledName": "$s8Jockisye8JniucuosC6sharedACvpZ",
+            "moduleName": "Jockisye",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Jniucuos",
+                    "printedName": "Jockisye.Jniucuos",
+                    "usr": "s:8Jockisye8JniucuosC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Jockisye8JniucuosC6sharedACvgZ",
+                "mangledName": "$s8Jockisye8JniucuosC6sharedACvgZ",
+                "moduleName": "Jockisye",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent",
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "mcjueys",
+            "printedName": "mcjueys(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Gtcuueos",
+                "printedName": "Jockisye.Gtcuueos",
+                "usr": "s:8Jockisye8GtcuueosO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye8JniucuosC7mcjueysyyAA8GtcuueosOF",
+            "mangledName": "$s8Jockisye8JniucuosC7mcjueysyyAA8GtcuueosOF",
+            "moduleName": "Jockisye",
+            "declAttributes": [
+              "Final"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:8Jockisye8JniucuosC",
+        "mangledName": "$s8Jockisye8JniucuosC",
+        "moduleName": "Jockisye",
+        "declAttributes": [
+          "Final"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Gbcuus",
+        "printedName": "Gbcuus",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "execute",
+            "printedName": "execute()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye6GbcuusP7executeyyF",
+            "mangledName": "$s8Jockisye6GbcuusP7executeyyF",
+            "moduleName": "Jockisye",
+            "genericSig": "<τ_0_0 where τ_0_0 : Jockisye.Gbcuus>",
+            "sugared_genericSig": "<Self where Self : Jockisye.Gbcuus>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:8Jockisye6GbcuusP",
+        "mangledName": "$s8Jockisye6GbcuusP",
+        "moduleName": "Jockisye",
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Einckso",
+        "printedName": "Einckso",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "loksje",
+            "printedName": "loksje(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Gbcuus",
+                "printedName": "any Jockisye.Gbcuus",
+                "usr": "s:8Jockisye6GbcuusP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye7EincksoC6loksjeyyAA6Gbcuus_pFZ",
+            "mangledName": "$s8Jockisye7EincksoC6loksjeyyAA6Gbcuus_pFZ",
+            "moduleName": "Jockisye",
+            "static": true,
+            "declAttributes": [
+              "Final"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Einckso",
+                "printedName": "Jockisye.Einckso",
+                "usr": "s:8Jockisye7EincksoC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:8Jockisye7EincksoCACycfc",
+            "mangledName": "$s8Jockisye7EincksoCACycfc",
+            "moduleName": "Jockisye",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:8Jockisye7EincksoC",
+        "mangledName": "$s8Jockisye7EincksoC",
+        "moduleName": "Jockisye",
+        "declAttributes": [
+          "Final"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CMD_0",
+        "printedName": "CMD_0",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "execute",
+            "printedName": "execute()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye5CMD_0V7executeyyF",
+            "mangledName": "$s8Jockisye5CMD_0V7executeyyF",
+            "moduleName": "Jockisye",
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CMD_0",
+                "printedName": "Jockisye.CMD_0",
+                "usr": "s:8Jockisye5CMD_0V"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:8Jockisye5CMD_0VACycfc",
+            "mangledName": "$s8Jockisye5CMD_0VACycfc",
+            "moduleName": "Jockisye",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:8Jockisye5CMD_0V",
+        "mangledName": "$s8Jockisye5CMD_0V",
+        "moduleName": "Jockisye",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Gbcuus",
+            "printedName": "Gbcuus",
+            "usr": "s:8Jockisye6GbcuusP",
+            "mangledName": "$s8Jockisye6GbcuusP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CMD_1",
+        "printedName": "CMD_1",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "execute",
+            "printedName": "execute()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye5CMD_1V7executeyyF",
+            "mangledName": "$s8Jockisye5CMD_1V7executeyyF",
+            "moduleName": "Jockisye",
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CMD_1",
+                "printedName": "Jockisye.CMD_1",
+                "usr": "s:8Jockisye5CMD_1V"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:8Jockisye5CMD_1VACycfc",
+            "mangledName": "$s8Jockisye5CMD_1VACycfc",
+            "moduleName": "Jockisye",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:8Jockisye5CMD_1V",
+        "mangledName": "$s8Jockisye5CMD_1V",
+        "moduleName": "Jockisye",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Gbcuus",
+            "printedName": "Gbcuus",
+            "usr": "s:8Jockisye6GbcuusP",
+            "mangledName": "$s8Jockisye6GbcuusP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CMD_2",
+        "printedName": "CMD_2",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "execute",
+            "printedName": "execute()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye5CMD_2V7executeyyF",
+            "mangledName": "$s8Jockisye5CMD_2V7executeyyF",
+            "moduleName": "Jockisye",
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CMD_2",
+                "printedName": "Jockisye.CMD_2",
+                "usr": "s:8Jockisye5CMD_2V"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:8Jockisye5CMD_2VACycfc",
+            "mangledName": "$s8Jockisye5CMD_2VACycfc",
+            "moduleName": "Jockisye",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:8Jockisye5CMD_2V",
+        "mangledName": "$s8Jockisye5CMD_2V",
+        "moduleName": "Jockisye",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Gbcuus",
+            "printedName": "Gbcuus",
+            "usr": "s:8Jockisye6GbcuusP",
+            "mangledName": "$s8Jockisye6GbcuusP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Nciosu",
+        "printedName": "Nciosu",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "e0",
+            "printedName": "e0",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Jockisye.Nciosu.Type) -> Jockisye.Nciosu",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Nciosu",
+                    "printedName": "Jockisye.Nciosu",
+                    "usr": "s:8Jockisye6NciosuO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Jockisye.Nciosu.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Nciosu",
+                        "printedName": "Jockisye.Nciosu",
+                        "usr": "s:8Jockisye6NciosuO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:8Jockisye6NciosuO2e0yA2CmF",
+            "mangledName": "$s8Jockisye6NciosuO2e0yA2CmF",
+            "moduleName": "Jockisye",
+            "fixedbinaryorder": 0
+          },
+          {
+            "kind": "Var",
+            "name": "e1",
+            "printedName": "e1",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Jockisye.Nciosu.Type) -> Jockisye.Nciosu",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Nciosu",
+                    "printedName": "Jockisye.Nciosu",
+                    "usr": "s:8Jockisye6NciosuO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Jockisye.Nciosu.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Nciosu",
+                        "printedName": "Jockisye.Nciosu",
+                        "usr": "s:8Jockisye6NciosuO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:8Jockisye6NciosuO2e1yA2CmF",
+            "mangledName": "$s8Jockisye6NciosuO2e1yA2CmF",
+            "moduleName": "Jockisye",
+            "fixedbinaryorder": 1
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Nciosu",
+                "printedName": "Jockisye.Nciosu",
+                "usr": "s:8Jockisye6NciosuO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Nciosu",
+                "printedName": "Jockisye.Nciosu",
+                "usr": "s:8Jockisye6NciosuO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye6NciosuO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s8Jockisye6NciosuO2eeoiySbAC_ACtFZ",
+            "moduleName": "Jockisye",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye6NciosuO9hashValueSivp",
+            "mangledName": "$s8Jockisye6NciosuO9hashValueSivp",
+            "moduleName": "Jockisye",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Jockisye6NciosuO9hashValueSivg",
+                "mangledName": "$s8Jockisye6NciosuO9hashValueSivg",
+                "moduleName": "Jockisye",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye6NciosuO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s8Jockisye6NciosuO4hash4intoys6HasherVz_tF",
+            "moduleName": "Jockisye",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:8Jockisye6NciosuO",
+        "mangledName": "$s8Jockisye6NciosuO",
+        "moduleName": "Jockisye",
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "isEnumExhaustive": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Klocmhe",
+        "printedName": "Klocmhe",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Klocmhe",
+                "printedName": "Jockisye.Klocmhe",
+                "usr": "s:8Jockisye7KlocmheC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye7KlocmheC6sharedACvpZ",
+            "mangledName": "$s8Jockisye7KlocmheC6sharedACvpZ",
+            "moduleName": "Jockisye",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Klocmhe",
+                    "printedName": "Jockisye.Klocmhe",
+                    "usr": "s:8Jockisye7KlocmheC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Jockisye7KlocmheC6sharedACvgZ",
+                "mangledName": "$s8Jockisye7KlocmheC6sharedACvgZ",
+                "moduleName": "Jockisye",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent",
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "handlers",
+            "printedName": "handlers",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[(Jockisye.Nciosu) -> ()]",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Jockisye.Nciosu) -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Nciosu",
+                        "printedName": "Jockisye.Nciosu",
+                        "usr": "s:8Jockisye6NciosuO"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye7KlocmheC8handlers33_F7460B18BBA8284278A7FE5F15EF2A55LLSayyAA6NciosuOcGvp",
+            "mangledName": "$s8Jockisye7KlocmheC8handlers33_F7460B18BBA8284278A7FE5F15EF2A55LLSayyAA6NciosuOcGvp",
+            "moduleName": "Jockisye",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true
+          },
+          {
+            "kind": "Function",
+            "name": "cbvhsi",
+            "printedName": "cbvhsi(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Jockisye.Nciosu) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Nciosu",
+                    "printedName": "Jockisye.Nciosu",
+                    "usr": "s:8Jockisye6NciosuO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye7KlocmheC6cbvhsiyyyAA6NciosuOcF",
+            "mangledName": "$s8Jockisye7KlocmheC6cbvhsiyyyAA6NciosuOcF",
+            "moduleName": "Jockisye",
+            "declAttributes": [
+              "Final"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "hiocye",
+            "printedName": "hiocye(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Nciosu",
+                "printedName": "Jockisye.Nciosu",
+                "usr": "s:8Jockisye6NciosuO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye7KlocmheC6hiocyeyyAA6NciosuOF",
+            "mangledName": "$s8Jockisye7KlocmheC6hiocyeyyAA6NciosuOF",
+            "moduleName": "Jockisye",
+            "declAttributes": [
+              "Final"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:8Jockisye7KlocmheC",
+        "mangledName": "$s8Jockisye7KlocmheC",
+        "moduleName": "Jockisye",
+        "declAttributes": [
+          "Final"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Tbvchuc",
+        "printedName": "Tbvchuc",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Tbvchuc",
+                "printedName": "Jockisye.Tbvchuc",
+                "usr": "s:8Jockisye7TbvchucC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye7TbvchucC6sharedACvpZ",
+            "mangledName": "$s8Jockisye7TbvchucC6sharedACvpZ",
+            "moduleName": "Jockisye",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tbvchuc",
+                    "printedName": "Jockisye.Tbvchuc",
+                    "usr": "s:8Jockisye7TbvchucC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Jockisye7TbvchucC6sharedACvgZ",
+                "mangledName": "$s8Jockisye7TbvchucC6sharedACvgZ",
+                "moduleName": "Jockisye",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent",
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "registry",
+            "printedName": "registry",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.ObjectIdentifier : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObjectIdentifier",
+                    "printedName": "Swift.ObjectIdentifier",
+                    "usr": "s:SO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye7TbvchucC8registry33_F7460B18BBA8284278A7FE5F15EF2A55LLSDySOypGvp",
+            "mangledName": "$s8Jockisye7TbvchucC8registry33_F7460B18BBA8284278A7FE5F15EF2A55LLSDySOypGvp",
+            "moduleName": "Jockisye",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true
+          },
+          {
+            "kind": "Function",
+            "name": "register",
+            "printedName": "register(_:instance:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Metatype",
+                "printedName": "τ_0_0.Type",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GenericTypeParam",
+                "printedName": "τ_0_0"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye7TbvchucC8register_8instanceyxm_xtlF",
+            "mangledName": "$s8Jockisye7TbvchucC8register_8instanceyxm_xtlF",
+            "moduleName": "Jockisye",
+            "genericSig": "<τ_0_0>",
+            "sugared_genericSig": "<T>",
+            "declAttributes": [
+              "Final"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "resolve",
+            "printedName": "resolve(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "τ_0_0?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Metatype",
+                "printedName": "τ_0_0.Type",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye7TbvchucC7resolveyxSgxmlF",
+            "mangledName": "$s8Jockisye7TbvchucC7resolveyxSgxmlF",
+            "moduleName": "Jockisye",
+            "genericSig": "<τ_0_0>",
+            "sugared_genericSig": "<T>",
+            "declAttributes": [
+              "Final"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:8Jockisye7TbvchucC",
+        "mangledName": "$s8Jockisye7TbvchucC",
+        "moduleName": "Jockisye",
+        "declAttributes": [
+          "Final",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Yunvix",
+        "printedName": "Yunvix",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "s1",
+            "printedName": "s1",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Jockisye.Yunvix.Type) -> Jockisye.Yunvix",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Yunvix",
+                    "printedName": "Jockisye.Yunvix",
+                    "usr": "s:8Jockisye6YunvixO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Jockisye.Yunvix.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Yunvix",
+                        "printedName": "Jockisye.Yunvix",
+                        "usr": "s:8Jockisye6YunvixO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:8Jockisye6YunvixO2s1yA2CmF",
+            "mangledName": "$s8Jockisye6YunvixO2s1yA2CmF",
+            "moduleName": "Jockisye",
+            "fixedbinaryorder": 0
+          },
+          {
+            "kind": "Var",
+            "name": "s2",
+            "printedName": "s2",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Jockisye.Yunvix.Type) -> Jockisye.Yunvix",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Yunvix",
+                    "printedName": "Jockisye.Yunvix",
+                    "usr": "s:8Jockisye6YunvixO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Jockisye.Yunvix.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Yunvix",
+                        "printedName": "Jockisye.Yunvix",
+                        "usr": "s:8Jockisye6YunvixO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:8Jockisye6YunvixO2s2yA2CmF",
+            "mangledName": "$s8Jockisye6YunvixO2s2yA2CmF",
+            "moduleName": "Jockisye",
+            "fixedbinaryorder": 1
+          },
+          {
+            "kind": "Var",
+            "name": "s3",
+            "printedName": "s3",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Jockisye.Yunvix.Type) -> Jockisye.Yunvix",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Yunvix",
+                    "printedName": "Jockisye.Yunvix",
+                    "usr": "s:8Jockisye6YunvixO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Jockisye.Yunvix.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Yunvix",
+                        "printedName": "Jockisye.Yunvix",
+                        "usr": "s:8Jockisye6YunvixO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:8Jockisye6YunvixO2s3yA2CmF",
+            "mangledName": "$s8Jockisye6YunvixO2s3yA2CmF",
+            "moduleName": "Jockisye",
+            "fixedbinaryorder": 2
+          },
+          {
+            "kind": "Var",
+            "name": "s4",
+            "printedName": "s4",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Jockisye.Yunvix.Type) -> Jockisye.Yunvix",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Yunvix",
+                    "printedName": "Jockisye.Yunvix",
+                    "usr": "s:8Jockisye6YunvixO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Jockisye.Yunvix.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Yunvix",
+                        "printedName": "Jockisye.Yunvix",
+                        "usr": "s:8Jockisye6YunvixO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:8Jockisye6YunvixO2s4yA2CmF",
+            "mangledName": "$s8Jockisye6YunvixO2s4yA2CmF",
+            "moduleName": "Jockisye",
+            "fixedbinaryorder": 3
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Yunvix",
+                "printedName": "Jockisye.Yunvix",
+                "usr": "s:8Jockisye6YunvixO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Yunvix",
+                "printedName": "Jockisye.Yunvix",
+                "usr": "s:8Jockisye6YunvixO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye6YunvixO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s8Jockisye6YunvixO2eeoiySbAC_ACtFZ",
+            "moduleName": "Jockisye",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye6YunvixO9hashValueSivp",
+            "mangledName": "$s8Jockisye6YunvixO9hashValueSivp",
+            "moduleName": "Jockisye",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Jockisye6YunvixO9hashValueSivg",
+                "mangledName": "$s8Jockisye6YunvixO9hashValueSivg",
+                "moduleName": "Jockisye",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye6YunvixO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s8Jockisye6YunvixO4hash4intoys6HasherVz_tF",
+            "moduleName": "Jockisye",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:8Jockisye6YunvixO",
+        "mangledName": "$s8Jockisye6YunvixO",
+        "moduleName": "Jockisye",
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "isEnumExhaustive": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Sicocnh",
+        "printedName": "Sicocnh",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Sicocnh",
+                "printedName": "Jockisye.Sicocnh",
+                "usr": "s:8Jockisye7SicocnhC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye7SicocnhC6sharedACvpZ",
+            "mangledName": "$s8Jockisye7SicocnhC6sharedACvpZ",
+            "moduleName": "Jockisye",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Sicocnh",
+                    "printedName": "Jockisye.Sicocnh",
+                    "usr": "s:8Jockisye7SicocnhC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Jockisye7SicocnhC6sharedACvgZ",
+                "mangledName": "$s8Jockisye7SicocnhC6sharedACvgZ",
+                "moduleName": "Jockisye",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent",
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "state",
+            "printedName": "state",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Yunvix",
+                "printedName": "Jockisye.Yunvix",
+                "usr": "s:8Jockisye6YunvixO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye7SicocnhC5stateAA6YunvixOvp",
+            "mangledName": "$s8Jockisye7SicocnhC5stateAA6YunvixOvp",
+            "moduleName": "Jockisye",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "SetterAccess"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Yunvix",
+                    "printedName": "Jockisye.Yunvix",
+                    "usr": "s:8Jockisye6YunvixO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Jockisye7SicocnhC5stateAA6YunvixOvg",
+                "mangledName": "$s8Jockisye7SicocnhC5stateAA6YunvixOvg",
+                "moduleName": "Jockisye",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent",
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "cgfts",
+            "printedName": "cgfts(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Yunvix",
+                "printedName": "Jockisye.Yunvix",
+                "usr": "s:8Jockisye6YunvixO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye7SicocnhC5cgftsyyAA6YunvixOF",
+            "mangledName": "$s8Jockisye7SicocnhC5cgftsyyAA6YunvixOF",
+            "moduleName": "Jockisye",
+            "declAttributes": [
+              "Final"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:8Jockisye7SicocnhC",
+        "mangledName": "$s8Jockisye7SicocnhC",
+        "moduleName": "Jockisye",
+        "declAttributes": [
+          "Final"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Jockisye"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Jockisye"
+      },
+      {
+        "kind": "Function",
+        "name": "Ficnyse",
+        "printedName": "Ficnyse(_:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Optional",
+            "printedName": "Swift.String?",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "usr": "s:Sq"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:8Jockisye7FicnyseySSSgSSF",
+        "mangledName": "$s8Jockisye7FicnyseySSSgSSF",
+        "moduleName": "Jockisye",
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Var",
+        "name": "kYicns",
+        "printedName": "kYicns",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8Jockisye6kYicnsSSvp",
+        "mangledName": "$s8Jockisye6kYicnsSSvp",
+        "moduleName": "Jockisye",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Dieeyt",
+        "printedName": "Dieeyt",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "dhisne",
+            "printedName": "dhisne",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye6DieeytV6dhisneSSSgvp",
+            "mangledName": "$s8Jockisye6DieeytV6dhisneSSSgvp",
+            "moduleName": "Jockisye",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Jockisye6DieeytV6dhisneSSSgvg",
+                "mangledName": "$s8Jockisye6DieeytV6dhisneSSSgvg",
+                "moduleName": "Jockisye",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "kmdoie",
+            "printedName": "kmdoie",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye6DieeytV6kmdoieSSSgvp",
+            "mangledName": "$s8Jockisye6DieeytV6kmdoieSSSgvp",
+            "moduleName": "Jockisye",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Jockisye6DieeytV6kmdoieSSSgvg",
+                "mangledName": "$s8Jockisye6DieeytV6kmdoieSSSgvg",
+                "moduleName": "Jockisye",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(dhisne:kmdoie:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Dieeyt",
+                "printedName": "Jockisye.Dieeyt",
+                "usr": "s:8Jockisye6DieeytV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:8Jockisye6DieeytV6dhisne6kmdoieACSSSg_AFtcfc",
+            "mangledName": "$s8Jockisye6DieeytV6dhisne6kmdoieACSSSg_AFtcfc",
+            "moduleName": "Jockisye",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Dieeyt",
+                "printedName": "Jockisye.Dieeyt",
+                "usr": "s:8Jockisye6DieeytV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "any Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:8Jockisye6DieeytV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s8Jockisye6DieeytV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "Jockisye",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "any Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye6DieeytV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s8Jockisye6DieeytV6encode2toys7Encoder_p_tKF",
+            "moduleName": "Jockisye",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:8Jockisye6DieeytV",
+        "mangledName": "$s8Jockisye6DieeytV",
+        "moduleName": "Jockisye",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Function",
+        "name": "Bucines",
+        "printedName": "Bucines()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:8Jockisye7BucinesyyF",
+        "mangledName": "$s8Jockisye7BucinesyyF",
+        "moduleName": "Jockisye",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Var",
+        "name": "Raiyct",
+        "printedName": "Raiyct",
+        "children": [
+          {
+            "kind": "TypeFunc",
+            "name": "Function",
+            "printedName": "() -> ()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ]
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8Jockisye6Raiyctyycvp",
+        "mangledName": "$s8Jockisye6Raiyctyycvp",
+        "moduleName": "Jockisye",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Function",
+        "name": "cbbsji",
+        "printedName": "cbbsji()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:8Jockisye6cbbsjiyyF",
+        "mangledName": "$s8Jockisye6cbbsjiyyF",
+        "moduleName": "Jockisye",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Var",
+        "name": "tyebOkmnsu",
+        "printedName": "tyebOkmnsu",
+        "children": [
+          {
+            "kind": "TypeFunc",
+            "name": "Function",
+            "printedName": "() -> Swift.Bool",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ]
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8Jockisye10tyebOkmnsuSbycvp",
+        "mangledName": "$s8Jockisye10tyebOkmnsuSbycvp",
+        "moduleName": "Jockisye",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "hsisoncu",
+        "printedName": "hsisoncu",
+        "children": [
+          {
+            "kind": "TypeFunc",
+            "name": "Function",
+            "printedName": "() -> Swift.Bool",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ]
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8Jockisye8hsisoncuSbycvp",
+        "mangledName": "$s8Jockisye8hsisoncuSbycvp",
+        "moduleName": "Jockisye",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Function",
+        "name": "Ftcutbs",
+        "printedName": "Ftcutbs()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:8Jockisye7FtcutbsyyF",
+        "mangledName": "$s8Jockisye7FtcutbsyyF",
+        "moduleName": "Jockisye",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Moncishy",
+        "printedName": "Moncishy",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "ycuhaiis",
+            "printedName": "ycuhaiis(completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Jockisye.Dieeyt, any Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Jockisye.Dieeyt, any Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Dieeyt",
+                        "printedName": "Jockisye.Dieeyt",
+                        "usr": "s:8Jockisye6DieeytV"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "any Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye8MoncishyP8ycuhaiis10completionyys6ResultOyAA6DieeytVs5Error_pGc_tF",
+            "mangledName": "$s8Jockisye8MoncishyP8ycuhaiis10completionyys6ResultOyAA6DieeytVs5Error_pGc_tF",
+            "moduleName": "Jockisye",
+            "genericSig": "<τ_0_0 where τ_0_0 : Jockisye.Moncishy>",
+            "sugared_genericSig": "<Self where Self : Jockisye.Moncishy>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:8Jockisye8MoncishyP",
+        "mangledName": "$s8Jockisye8MoncishyP",
+        "moduleName": "Jockisye",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Dcunise",
+        "printedName": "Dcunise",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "ycuhaiis",
+            "printedName": "ycuhaiis(completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Jockisye.Dieeyt, any Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Jockisye.Dieeyt, any Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Dieeyt",
+                        "printedName": "Jockisye.Dieeyt",
+                        "usr": "s:8Jockisye6DieeytV"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "any Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye7DcuniseC8ycuhaiis10completionyys6ResultOyAA6DieeytVs5Error_pGc_tF",
+            "mangledName": "$s8Jockisye7DcuniseC8ycuhaiis10completionyys6ResultOyAA6DieeytVs5Error_pGc_tF",
+            "moduleName": "Jockisye",
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Dcunise",
+                "printedName": "Jockisye.Dcunise",
+                "usr": "s:8Jockisye7DcuniseC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:8Jockisye7DcuniseCACycfc",
+            "mangledName": "$s8Jockisye7DcuniseCACycfc",
+            "moduleName": "Jockisye",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:8Jockisye7DcuniseC",
+        "mangledName": "$s8Jockisye7DcuniseC",
+        "moduleName": "Jockisye",
+        "declAttributes": [
+          "Final",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Moncishy",
+            "printedName": "Moncishy",
+            "usr": "s:8Jockisye8MoncishyP",
+            "mangledName": "$s8Jockisye8MoncishyP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Jockisye"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "WhimsyTrinket",
+        "printedName": "WhimsyTrinket",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "crustyCheese",
+            "printedName": "crustyCheese",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Jockisye.WhimsyTrinket.Type) -> Jockisye.WhimsyTrinket",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WhimsyTrinket",
+                    "printedName": "Jockisye.WhimsyTrinket",
+                    "usr": "s:8Jockisye13WhimsyTrinketO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Jockisye.WhimsyTrinket.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WhimsyTrinket",
+                        "printedName": "Jockisye.WhimsyTrinket",
+                        "usr": "s:8Jockisye13WhimsyTrinketO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:8Jockisye13WhimsyTrinketO12crustyCheeseyA2CmF",
+            "mangledName": "$s8Jockisye13WhimsyTrinketO12crustyCheeseyA2CmF",
+            "moduleName": "Jockisye",
+            "fixedbinaryorder": 0
+          },
+          {
+            "kind": "Var",
+            "name": "rustyJangler",
+            "printedName": "rustyJangler",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Jockisye.WhimsyTrinket.Type) -> Jockisye.WhimsyTrinket",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WhimsyTrinket",
+                    "printedName": "Jockisye.WhimsyTrinket",
+                    "usr": "s:8Jockisye13WhimsyTrinketO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Jockisye.WhimsyTrinket.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WhimsyTrinket",
+                        "printedName": "Jockisye.WhimsyTrinket",
+                        "usr": "s:8Jockisye13WhimsyTrinketO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:8Jockisye13WhimsyTrinketO12rustyJangleryA2CmF",
+            "mangledName": "$s8Jockisye13WhimsyTrinketO12rustyJangleryA2CmF",
+            "moduleName": "Jockisye",
+            "fixedbinaryorder": 1
+          },
+          {
+            "kind": "Var",
+            "name": "gleamingSeed",
+            "printedName": "gleamingSeed",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Jockisye.WhimsyTrinket.Type) -> Jockisye.WhimsyTrinket",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WhimsyTrinket",
+                    "printedName": "Jockisye.WhimsyTrinket",
+                    "usr": "s:8Jockisye13WhimsyTrinketO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Jockisye.WhimsyTrinket.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WhimsyTrinket",
+                        "printedName": "Jockisye.WhimsyTrinket",
+                        "usr": "s:8Jockisye13WhimsyTrinketO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:8Jockisye13WhimsyTrinketO12gleamingSeedyA2CmF",
+            "mangledName": "$s8Jockisye13WhimsyTrinketO12gleamingSeedyA2CmF",
+            "moduleName": "Jockisye",
+            "fixedbinaryorder": 2
+          },
+          {
+            "kind": "Var",
+            "name": "homelyKeystone",
+            "printedName": "homelyKeystone",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Jockisye.WhimsyTrinket.Type) -> Jockisye.WhimsyTrinket",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WhimsyTrinket",
+                    "printedName": "Jockisye.WhimsyTrinket",
+                    "usr": "s:8Jockisye13WhimsyTrinketO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Jockisye.WhimsyTrinket.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WhimsyTrinket",
+                        "printedName": "Jockisye.WhimsyTrinket",
+                        "usr": "s:8Jockisye13WhimsyTrinketO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:8Jockisye13WhimsyTrinketO14homelyKeystoneyA2CmF",
+            "mangledName": "$s8Jockisye13WhimsyTrinketO14homelyKeystoneyA2CmF",
+            "moduleName": "Jockisye",
+            "fixedbinaryorder": 3
+          },
+          {
+            "kind": "Var",
+            "name": "sweetBumbleDrop",
+            "printedName": "sweetBumbleDrop",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Jockisye.WhimsyTrinket.Type) -> Jockisye.WhimsyTrinket",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WhimsyTrinket",
+                    "printedName": "Jockisye.WhimsyTrinket",
+                    "usr": "s:8Jockisye13WhimsyTrinketO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Jockisye.WhimsyTrinket.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WhimsyTrinket",
+                        "printedName": "Jockisye.WhimsyTrinket",
+                        "usr": "s:8Jockisye13WhimsyTrinketO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:8Jockisye13WhimsyTrinketO15sweetBumbleDropyA2CmF",
+            "mangledName": "$s8Jockisye13WhimsyTrinketO15sweetBumbleDropyA2CmF",
+            "moduleName": "Jockisye",
+            "fixedbinaryorder": 4
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Jockisye.WhimsyTrinket?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WhimsyTrinket",
+                    "printedName": "Jockisye.WhimsyTrinket",
+                    "usr": "s:8Jockisye13WhimsyTrinketO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:8Jockisye13WhimsyTrinketO8rawValueACSgSS_tcfc",
+            "mangledName": "$s8Jockisye13WhimsyTrinketO8rawValueACSgSS_tcfc",
+            "moduleName": "Jockisye",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye13WhimsyTrinketO8rawValueSSvp",
+            "mangledName": "$s8Jockisye13WhimsyTrinketO8rawValueSSvp",
+            "moduleName": "Jockisye",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Jockisye13WhimsyTrinketO8rawValueSSvg",
+                "mangledName": "$s8Jockisye13WhimsyTrinketO8rawValueSSvg",
+                "moduleName": "Jockisye",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "iconSymbol",
+            "printedName": "iconSymbol()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye13WhimsyTrinketO10iconSymbolSSyF",
+            "mangledName": "$s8Jockisye13WhimsyTrinketO10iconSymbolSSyF",
+            "moduleName": "Jockisye",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:8Jockisye13WhimsyTrinketO",
+        "mangledName": "$s8Jockisye13WhimsyTrinketO",
+        "moduleName": "Jockisye",
+        "enumRawTypeName": "String",
+        "isEnumExhaustive": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PuzzleFettle",
+        "printedName": "PuzzleFettle",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "hushedStart",
+            "printedName": "hushedStart",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Jockisye.PuzzleFettle.Type) -> Jockisye.PuzzleFettle",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PuzzleFettle",
+                    "printedName": "Jockisye.PuzzleFettle",
+                    "usr": "s:8Jockisye12PuzzleFettleO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Jockisye.PuzzleFettle.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PuzzleFettle",
+                        "printedName": "Jockisye.PuzzleFettle",
+                        "usr": "s:8Jockisye12PuzzleFettleO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:8Jockisye12PuzzleFettleO11hushedStartyA2CmF",
+            "mangledName": "$s8Jockisye12PuzzleFettleO11hushedStartyA2CmF",
+            "moduleName": "Jockisye",
+            "fixedbinaryorder": 0
+          },
+          {
+            "kind": "Var",
+            "name": "creakyChestUnbolted",
+            "printedName": "creakyChestUnbolted",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Jockisye.PuzzleFettle.Type) -> Jockisye.PuzzleFettle",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PuzzleFettle",
+                    "printedName": "Jockisye.PuzzleFettle",
+                    "usr": "s:8Jockisye12PuzzleFettleO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Jockisye.PuzzleFettle.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PuzzleFettle",
+                        "printedName": "Jockisye.PuzzleFettle",
+                        "usr": "s:8Jockisye12PuzzleFettleO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:8Jockisye12PuzzleFettleO19creakyChestUnboltedyA2CmF",
+            "mangledName": "$s8Jockisye12PuzzleFettleO19creakyChestUnboltedyA2CmF",
+            "moduleName": "Jockisye",
+            "fixedbinaryorder": 1
+          },
+          {
+            "kind": "Var",
+            "name": "oldMousieGrateful",
+            "printedName": "oldMousieGrateful",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Jockisye.PuzzleFettle.Type) -> Jockisye.PuzzleFettle",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PuzzleFettle",
+                    "printedName": "Jockisye.PuzzleFettle",
+                    "usr": "s:8Jockisye12PuzzleFettleO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Jockisye.PuzzleFettle.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PuzzleFettle",
+                        "printedName": "Jockisye.PuzzleFettle",
+                        "usr": "s:8Jockisye12PuzzleFettleO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:8Jockisye12PuzzleFettleO17oldMousieGratefulyA2CmF",
+            "mangledName": "$s8Jockisye12PuzzleFettleO17oldMousieGratefulyA2CmF",
+            "moduleName": "Jockisye",
+            "fixedbinaryorder": 2
+          },
+          {
+            "kind": "Var",
+            "name": "portalUnlatched",
+            "printedName": "portalUnlatched",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Jockisye.PuzzleFettle.Type) -> Jockisye.PuzzleFettle",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PuzzleFettle",
+                    "printedName": "Jockisye.PuzzleFettle",
+                    "usr": "s:8Jockisye12PuzzleFettleO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Jockisye.PuzzleFettle.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PuzzleFettle",
+                        "printedName": "Jockisye.PuzzleFettle",
+                        "usr": "s:8Jockisye12PuzzleFettleO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:8Jockisye12PuzzleFettleO15portalUnlatchedyA2CmF",
+            "mangledName": "$s8Jockisye12PuzzleFettleO15portalUnlatchedyA2CmF",
+            "moduleName": "Jockisye",
+            "fixedbinaryorder": 3
+          },
+          {
+            "kind": "Var",
+            "name": "journeyFulfilled",
+            "printedName": "journeyFulfilled",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Jockisye.PuzzleFettle.Type) -> Jockisye.PuzzleFettle",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PuzzleFettle",
+                    "printedName": "Jockisye.PuzzleFettle",
+                    "usr": "s:8Jockisye12PuzzleFettleO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Jockisye.PuzzleFettle.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PuzzleFettle",
+                        "printedName": "Jockisye.PuzzleFettle",
+                        "usr": "s:8Jockisye12PuzzleFettleO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:8Jockisye12PuzzleFettleO16journeyFulfilledyA2CmF",
+            "mangledName": "$s8Jockisye12PuzzleFettleO16journeyFulfilledyA2CmF",
+            "moduleName": "Jockisye",
+            "fixedbinaryorder": 4
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "PuzzleFettle",
+                "printedName": "Jockisye.PuzzleFettle",
+                "usr": "s:8Jockisye12PuzzleFettleO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "PuzzleFettle",
+                "printedName": "Jockisye.PuzzleFettle",
+                "usr": "s:8Jockisye12PuzzleFettleO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye12PuzzleFettleO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s8Jockisye12PuzzleFettleO2eeoiySbAC_ACtFZ",
+            "moduleName": "Jockisye",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye12PuzzleFettleO9hashValueSivp",
+            "mangledName": "$s8Jockisye12PuzzleFettleO9hashValueSivp",
+            "moduleName": "Jockisye",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Jockisye12PuzzleFettleO9hashValueSivg",
+                "mangledName": "$s8Jockisye12PuzzleFettleO9hashValueSivg",
+                "moduleName": "Jockisye",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye12PuzzleFettleO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s8Jockisye12PuzzleFettleO4hash4intoys6HasherVz_tF",
+            "moduleName": "Jockisye",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:8Jockisye12PuzzleFettleO",
+        "mangledName": "$s8Jockisye12PuzzleFettleO",
+        "moduleName": "Jockisye",
+        "isEnumExhaustive": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TaleTellerDelegate",
+        "printedName": "TaleTellerDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "narrateWhisper",
+            "printedName": "narrateWhisper(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye18TaleTellerDelegateP14narrateWhisperyySSF",
+            "mangledName": "$s8Jockisye18TaleTellerDelegateP14narrateWhisperyySSF",
+            "moduleName": "Jockisye",
+            "genericSig": "<τ_0_0 where τ_0_0 : Jockisye.TaleTellerDelegate>",
+            "sugared_genericSig": "<Self where Self : Jockisye.TaleTellerDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "refreshCurioSack",
+            "printedName": "refreshCurioSack(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Jockisye.WhimsyTrinket]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WhimsyTrinket",
+                    "printedName": "Jockisye.WhimsyTrinket",
+                    "usr": "s:8Jockisye13WhimsyTrinketO"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye18TaleTellerDelegateP16refreshCurioSackyySayAA13WhimsyTrinketOGF",
+            "mangledName": "$s8Jockisye18TaleTellerDelegateP16refreshCurioSackyySayAA13WhimsyTrinketOGF",
+            "moduleName": "Jockisye",
+            "genericSig": "<τ_0_0 where τ_0_0 : Jockisye.TaleTellerDelegate>",
+            "sugared_genericSig": "<Self where Self : Jockisye.TaleTellerDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "redrawWorldlySigns",
+            "printedName": "redrawWorldlySigns()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye18TaleTellerDelegateP18redrawWorldlySignsyyF",
+            "mangledName": "$s8Jockisye18TaleTellerDelegateP18redrawWorldlySignsyyF",
+            "moduleName": "Jockisye",
+            "genericSig": "<τ_0_0 where τ_0_0 : Jockisye.TaleTellerDelegate>",
+            "sugared_genericSig": "<Self where Self : Jockisye.TaleTellerDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "tripEndingFanfare",
+            "printedName": "tripEndingFanfare(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye18TaleTellerDelegateP17tripEndingFanfareyySSF",
+            "mangledName": "$s8Jockisye18TaleTellerDelegateP17tripEndingFanfareyySSF",
+            "moduleName": "Jockisye",
+            "genericSig": "<τ_0_0 where τ_0_0 : Jockisye.TaleTellerDelegate>",
+            "sugared_genericSig": "<Self where Self : Jockisye.TaleTellerDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:8Jockisye18TaleTellerDelegateP",
+        "mangledName": "$s8Jockisye18TaleTellerDelegateP",
+        "moduleName": "Jockisye",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "RiddleWeaver",
+        "printedName": "RiddleWeaver",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "scribe",
+            "printedName": "scribe",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "(any Jockisye.TaleTellerDelegate)?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye12RiddleWeaverC6scribeAA18TaleTellerDelegate_pSgvp",
+            "mangledName": "$s8Jockisye12RiddleWeaverC6scribeAA18TaleTellerDelegate_pSgvp",
+            "moduleName": "Jockisye",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "ReferenceOwnership"
+            ],
+            "fixedbinaryorder": 0,
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any Jockisye.TaleTellerDelegate)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "TaleTellerDelegate",
+                        "printedName": "any Jockisye.TaleTellerDelegate",
+                        "usr": "s:8Jockisye18TaleTellerDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Jockisye12RiddleWeaverC6scribeAA18TaleTellerDelegate_pSgvg",
+                "mangledName": "$s8Jockisye12RiddleWeaverC6scribeAA18TaleTellerDelegate_pSgvg",
+                "moduleName": "Jockisye",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any Jockisye.TaleTellerDelegate)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "TaleTellerDelegate",
+                        "printedName": "any Jockisye.TaleTellerDelegate",
+                        "usr": "s:8Jockisye18TaleTellerDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Jockisye12RiddleWeaverC6scribeAA18TaleTellerDelegate_pSgvs",
+                "mangledName": "$s8Jockisye12RiddleWeaverC6scribeAA18TaleTellerDelegate_pSgvs",
+                "moduleName": "Jockisye",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Jockisye12RiddleWeaverC6scribeAA18TaleTellerDelegate_pSgvM",
+                "mangledName": "$s8Jockisye12RiddleWeaverC6scribeAA18TaleTellerDelegate_pSgvM",
+                "moduleName": "Jockisye",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "trinketPouch",
+            "printedName": "trinketPouch",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Jockisye.WhimsyTrinket]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WhimsyTrinket",
+                    "printedName": "Jockisye.WhimsyTrinket",
+                    "usr": "s:8Jockisye13WhimsyTrinketO"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye12RiddleWeaverC12trinketPouch33_C7EDE79E2E44115AD2ECFBC071366C2DLLSayAA13WhimsyTrinketOGvp",
+            "mangledName": "$s8Jockisye12RiddleWeaverC12trinketPouch33_C7EDE79E2E44115AD2ECFBC071366C2DLLSayAA13WhimsyTrinketOGvp",
+            "moduleName": "Jockisye",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "plotTwist",
+            "printedName": "plotTwist",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PuzzleFettle",
+                "printedName": "Jockisye.PuzzleFettle",
+                "usr": "s:8Jockisye12PuzzleFettleO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye12RiddleWeaverC9plotTwist33_C7EDE79E2E44115AD2ECFBC071366C2DLLAA12PuzzleFettleOvp",
+            "mangledName": "$s8Jockisye12RiddleWeaverC9plotTwist33_C7EDE79E2E44115AD2ECFBC071366C2DLLAA12PuzzleFettleOvp",
+            "moduleName": "Jockisye",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 2,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "chestJimmied",
+            "printedName": "chestJimmied",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye12RiddleWeaverC12chestJimmied33_C7EDE79E2E44115AD2ECFBC071366C2DLLSbvp",
+            "mangledName": "$s8Jockisye12RiddleWeaverC12chestJimmied33_C7EDE79E2E44115AD2ECFBC071366C2DLLSbvp",
+            "moduleName": "Jockisye",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 3,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "seedGiven",
+            "printedName": "seedGiven",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye12RiddleWeaverC9seedGiven33_C7EDE79E2E44115AD2ECFBC071366C2DLLSbvp",
+            "mangledName": "$s8Jockisye12RiddleWeaverC9seedGiven33_C7EDE79E2E44115AD2ECFBC071366C2DLLSbvp",
+            "moduleName": "Jockisye",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 4,
+            "hasStorage": true
+          },
+          {
+            "kind": "Function",
+            "name": "fetchWorldlyPulse",
+            "printedName": "fetchWorldlyPulse()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PuzzleFettle",
+                "printedName": "Jockisye.PuzzleFettle",
+                "usr": "s:8Jockisye12PuzzleFettleO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye12RiddleWeaverC17fetchWorldlyPulseAA12PuzzleFettleOyF",
+            "mangledName": "$s8Jockisye12RiddleWeaverC17fetchWorldlyPulseAA12PuzzleFettleOyF",
+            "moduleName": "Jockisye",
+            "isOpen": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "rummagePouch",
+            "printedName": "rummagePouch()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Jockisye.WhimsyTrinket]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WhimsyTrinket",
+                    "printedName": "Jockisye.WhimsyTrinket",
+                    "usr": "s:8Jockisye13WhimsyTrinketO"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye12RiddleWeaverC12rummagePouchSayAA13WhimsyTrinketOGyF",
+            "mangledName": "$s8Jockisye12RiddleWeaverC12rummagePouchSayAA13WhimsyTrinketOGyF",
+            "moduleName": "Jockisye",
+            "isOpen": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "pokeAtWondrousSpot",
+            "printedName": "pokeAtWondrousSpot(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye12RiddleWeaverC18pokeAtWondrousSpotyySSF",
+            "mangledName": "$s8Jockisye12RiddleWeaverC18pokeAtWondrousSpotyySSF",
+            "moduleName": "Jockisye",
+            "isOpen": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "RiddleWeaver",
+                "printedName": "Jockisye.RiddleWeaver",
+                "usr": "s:8Jockisye12RiddleWeaverC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:8Jockisye12RiddleWeaverCACycfc",
+            "mangledName": "$s8Jockisye12RiddleWeaverCACycfc",
+            "moduleName": "Jockisye",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:8Jockisye12RiddleWeaverC",
+        "mangledName": "$s8Jockisye12RiddleWeaverC",
+        "moduleName": "Jockisye",
+        "isOpen": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "WhiskerlyGameView",
+        "printedName": "WhiskerlyGameView",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(parent:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WhiskerlyGameView",
+                "printedName": "Jockisye.WhiskerlyGameView",
+                "usr": "c:@M@Jockisye@objc(cs)WhiskerlyGameView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:8Jockisye17WhiskerlyGameViewC6parentACSo16UIViewControllerC_tcfc",
+            "mangledName": "$s8Jockisye17WhiskerlyGameViewC6parentACSo16UIViewControllerC_tcfc",
+            "moduleName": "Jockisye",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Jockisye.WhiskerlyGameView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WhiskerlyGameView",
+                    "printedName": "Jockisye.WhiskerlyGameView",
+                    "usr": "c:@M@Jockisye@objc(cs)WhiskerlyGameView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Jockisye@objc(cs)WhiskerlyGameView(im)initWithCoder:",
+            "mangledName": "$s8Jockisye17WhiskerlyGameViewC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "Jockisye",
+            "overriding": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WhiskerlyGameView",
+                "printedName": "Jockisye.WhiskerlyGameView",
+                "usr": "c:@M@Jockisye@objc(cs)WhiskerlyGameView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Jockisye@objc(cs)WhiskerlyGameView(im)initWithFrame:",
+            "mangledName": "$s8Jockisye17WhiskerlyGameViewC5frameACSo6CGRectV_tcfc",
+            "moduleName": "Jockisye",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "narrateWhisper",
+            "printedName": "narrateWhisper(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye17WhiskerlyGameViewC14narrateWhisperyySSF",
+            "mangledName": "$s8Jockisye17WhiskerlyGameViewC14narrateWhisperyySSF",
+            "moduleName": "Jockisye",
+            "isOpen": true,
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "refreshCurioSack",
+            "printedName": "refreshCurioSack(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Jockisye.WhimsyTrinket]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WhimsyTrinket",
+                    "printedName": "Jockisye.WhimsyTrinket",
+                    "usr": "s:8Jockisye13WhimsyTrinketO"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye17WhiskerlyGameViewC16refreshCurioSackyySayAA13WhimsyTrinketOGF",
+            "mangledName": "$s8Jockisye17WhiskerlyGameViewC16refreshCurioSackyySayAA13WhimsyTrinketOGF",
+            "moduleName": "Jockisye",
+            "isOpen": true,
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "redrawWorldlySigns",
+            "printedName": "redrawWorldlySigns()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye17WhiskerlyGameViewC18redrawWorldlySignsyyF",
+            "mangledName": "$s8Jockisye17WhiskerlyGameViewC18redrawWorldlySignsyyF",
+            "moduleName": "Jockisye",
+            "isOpen": true,
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "tripEndingFanfare",
+            "printedName": "tripEndingFanfare(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye17WhiskerlyGameViewC17tripEndingFanfareyySSF",
+            "mangledName": "$s8Jockisye17WhiskerlyGameViewC17tripEndingFanfareyySSF",
+            "moduleName": "Jockisye",
+            "isOpen": true,
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@Jockisye@objc(cs)WhiskerlyGameView",
+        "mangledName": "$s8Jockisye17WhiskerlyGameViewC",
+        "moduleName": "Jockisye",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "hasMissingDesignatedInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "TaleTellerDelegate",
+            "printedName": "TaleTellerDelegate",
+            "usr": "s:8Jockisye18TaleTellerDelegateP",
+            "mangledName": "$s8Jockisye18TaleTellerDelegateP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PuppetHotspotButton",
+        "printedName": "PuppetHotspotButton",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "spotIdentifier",
+            "printedName": "spotIdentifier",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye19PuppetHotspotButtonC14spotIdentifierSSSgvp",
+            "mangledName": "$s8Jockisye19PuppetHotspotButtonC14spotIdentifierSSSgvp",
+            "moduleName": "Jockisye",
+            "declAttributes": [
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Jockisye19PuppetHotspotButtonC14spotIdentifierSSSgvg",
+                "mangledName": "$s8Jockisye19PuppetHotspotButtonC14spotIdentifierSSSgvg",
+                "moduleName": "Jockisye",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(spotId:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PuppetHotspotButton",
+                "printedName": "Jockisye.PuppetHotspotButton",
+                "usr": "c:@M@Jockisye@objc(cs)PuppetHotspotButton"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:8Jockisye19PuppetHotspotButtonC6spotIdACSS_tcfc",
+            "mangledName": "$s8Jockisye19PuppetHotspotButtonC6spotIdACSS_tcfc",
+            "moduleName": "Jockisye",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Jockisye.PuppetHotspotButton?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PuppetHotspotButton",
+                    "printedName": "Jockisye.PuppetHotspotButton",
+                    "usr": "c:@M@Jockisye@objc(cs)PuppetHotspotButton"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Jockisye@objc(cs)PuppetHotspotButton(im)initWithCoder:",
+            "mangledName": "$s8Jockisye19PuppetHotspotButtonC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "Jockisye",
+            "overriding": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PuppetHotspotButton",
+                "printedName": "Jockisye.PuppetHotspotButton",
+                "usr": "c:@M@Jockisye@objc(cs)PuppetHotspotButton"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Jockisye@objc(cs)PuppetHotspotButton(im)initWithFrame:",
+            "mangledName": "$s8Jockisye19PuppetHotspotButtonC5frameACSo6CGRectV_tcfc",
+            "moduleName": "Jockisye",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@Jockisye@objc(cs)PuppetHotspotButton",
+        "mangledName": "$s8Jockisye19PuppetHotspotButtonC",
+        "moduleName": "Jockisye",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIButton",
+        "superclassNames": [
+          "UIKit.UIButton",
+          "UIKit.UIControl",
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Jockisye"
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "Jockisye"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Focicye",
+        "printedName": "Focicye",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "view",
+            "printedName": "view",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye7FocicyeP4viewSo6UIViewCvp",
+            "mangledName": "$s8Jockisye7FocicyeP4viewSo6UIViewCvp",
+            "moduleName": "Jockisye",
+            "protocolReq": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Jockisye7FocicyeP4viewSo6UIViewCvg",
+                "mangledName": "$s8Jockisye7FocicyeP4viewSo6UIViewCvg",
+                "moduleName": "Jockisye",
+                "genericSig": "<τ_0_0 where τ_0_0 : Jockisye.Focicye>",
+                "sugared_genericSig": "<Self where Self : Jockisye.Focicye>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "vxjxys",
+            "printedName": "vxjxys(u:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye7FocicyeP6vxjxys1uy10Foundation3URLV_tF",
+            "mangledName": "$s8Jockisye7FocicyeP6vxjxys1uy10Foundation3URLV_tF",
+            "moduleName": "Jockisye",
+            "genericSig": "<τ_0_0 where τ_0_0 : Jockisye.Focicye>",
+            "sugared_genericSig": "<Self where Self : Jockisye.Focicye>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "stop",
+            "printedName": "stop()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye7FocicyeP4stopyyF",
+            "mangledName": "$s8Jockisye7FocicyeP4stopyyF",
+            "moduleName": "Jockisye",
+            "genericSig": "<τ_0_0 where τ_0_0 : Jockisye.Focicye>",
+            "sugared_genericSig": "<Self where Self : Jockisye.Focicye>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:8Jockisye7FocicyeP",
+        "mangledName": "$s8Jockisye7FocicyeP",
+        "moduleName": "Jockisye",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Jicnis",
+        "printedName": "Jicnis",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "wv",
+            "printedName": "wv",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "WebKit.WKWebView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKWebView",
+                    "printedName": "WebKit.WKWebView",
+                    "usr": "c:objc(cs)WKWebView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye6JicnisC2wv33_4063F6DBBB93B794947FF9AD8CDCA15FLLSo9WKWebViewCSgvp",
+            "mangledName": "$s8Jockisye6JicnisC2wv33_4063F6DBBB93B794947FF9AD8CDCA15FLLSo9WKWebViewCSgvp",
+            "moduleName": "Jockisye",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "hsiuos",
+            "printedName": "hsiuos",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye6JicnisC6hsiuos33_4063F6DBBB93B794947FF9AD8CDCA15FLLSSvp",
+            "mangledName": "$s8Jockisye6JicnisC6hsiuos33_4063F6DBBB93B794947FF9AD8CDCA15FLLSSvp",
+            "moduleName": "Jockisye",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "view",
+            "printedName": "view",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye6JicnisC4viewSo6UIViewCvp",
+            "mangledName": "$s8Jockisye6JicnisC4viewSo6UIViewCvp",
+            "moduleName": "Jockisye",
+            "declAttributes": [
+              "Final"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Jockisye6JicnisC4viewSo6UIViewCvg",
+                "mangledName": "$s8Jockisye6JicnisC4viewSo6UIViewCvg",
+                "moduleName": "Jockisye",
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "vxjxys",
+            "printedName": "vxjxys(u:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye6JicnisC6vxjxys1uy10Foundation3URLV_tF",
+            "mangledName": "$s8Jockisye6JicnisC6vxjxys1uy10Foundation3URLV_tF",
+            "moduleName": "Jockisye",
+            "declAttributes": [
+              "Final"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "stop",
+            "printedName": "stop()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8Jockisye6JicnisC4stopyyF",
+            "mangledName": "$s8Jockisye6JicnisC4stopyyF",
+            "moduleName": "Jockisye",
+            "declAttributes": [
+              "Final"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Jicnis",
+                "printedName": "Jockisye.Jicnis",
+                "usr": "c:@M@Jockisye@objc(cs)Jicnis"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Jockisye@objc(cs)Jicnis(im)init",
+            "mangledName": "$s8Jockisye6JicnisCACycfc",
+            "moduleName": "Jockisye",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "webView",
+            "printedName": "webView(_:decidePolicyFor:decisionHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKNavigationAction",
+                "printedName": "WebKit.WKNavigationAction",
+                "usr": "c:objc(cs)WKNavigationAction"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(WebKit.WKNavigationActionPolicy) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKNavigationActionPolicy",
+                    "printedName": "WebKit.WKNavigationActionPolicy",
+                    "usr": "c:@E@WKNavigationActionPolicy"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@Jockisye@objc(cs)Jicnis(im)webView:decidePolicyForNavigationAction:decisionHandler:",
+            "mangledName": "$s8Jockisye6JicnisC7webView_15decidePolicyFor15decisionHandlerySo05WKWebD0C_So18WKNavigationActionCySo0klF0VctF",
+            "moduleName": "Jockisye",
+            "objc_name": "webView:decidePolicyForNavigationAction:decisionHandler:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "webView",
+            "printedName": "webView(_:createWebViewWith:for:windowFeatures:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "WebKit.WKWebView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKWebView",
+                    "printedName": "WebKit.WKWebView",
+                    "usr": "c:objc(cs)WKWebView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebViewConfiguration",
+                "printedName": "WebKit.WKWebViewConfiguration",
+                "usr": "c:objc(cs)WKWebViewConfiguration"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKNavigationAction",
+                "printedName": "WebKit.WKNavigationAction",
+                "usr": "c:objc(cs)WKNavigationAction"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWindowFeatures",
+                "printedName": "WebKit.WKWindowFeatures",
+                "usr": "c:objc(cs)WKWindowFeatures"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@Jockisye@objc(cs)Jicnis(im)webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:",
+            "mangledName": "$s8Jockisye6JicnisC7webView_09createWebD4With3for14windowFeaturesSo05WKWebD0CSgAI_So0kD13ConfigurationCSo18WKNavigationActionCSo08WKWindowJ0CtF",
+            "moduleName": "Jockisye",
+            "objc_name": "webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@Jockisye@objc(cs)Jicnis",
+        "mangledName": "$s8Jockisye6JicnisC",
+        "moduleName": "Jockisye",
+        "declAttributes": [
+          "Final",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Focicye",
+            "printedName": "Focicye",
+            "usr": "s:8Jockisye7FocicyeP",
+            "mangledName": "$s8Jockisye7FocicyeP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Jockisye"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MCReportDataViewController",
+        "printedName": "MCReportDataViewController",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "udhieis",
+            "printedName": "udhieis",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Jockisye.Dieeyt?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dieeyt",
+                    "printedName": "Jockisye.Dieeyt",
+                    "usr": "s:8Jockisye6DieeytV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye26MCReportDataViewControllerC7udhieis33_CA8650EFCF7B6010FDC3B792E23C326FLLAA6DieeytVSgvp",
+            "mangledName": "$s8Jockisye26MCReportDataViewControllerC7udhieis33_CA8650EFCF7B6010FDC3B792E23C326FLLAA6DieeytVSgvp",
+            "moduleName": "Jockisye",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "rtsbix",
+            "printedName": "rtsbix",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any Jockisye.Focicye)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Focicye",
+                    "printedName": "any Jockisye.Focicye",
+                    "usr": "s:8Jockisye7FocicyeP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Jockisye26MCReportDataViewControllerC6rtsbix33_CA8650EFCF7B6010FDC3B792E23C326FLLAA7Focicye_pSgvp",
+            "mangledName": "$s8Jockisye26MCReportDataViewControllerC6rtsbix33_CA8650EFCF7B6010FDC3B792E23C326FLLAA7Focicye_pSgvp",
+            "moduleName": "Jockisye",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Jockisye@objc(cs)MCReportDataViewController(im)viewDidLoad",
+            "mangledName": "$s8Jockisye26MCReportDataViewControllerC11viewDidLoadyyF",
+            "moduleName": "Jockisye",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLayoutSubviews",
+            "printedName": "viewDidLayoutSubviews()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Jockisye@objc(cs)MCReportDataViewController(im)viewDidLayoutSubviews",
+            "mangledName": "$s8Jockisye26MCReportDataViewControllerC21viewDidLayoutSubviewsyyF",
+            "moduleName": "Jockisye",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLayoutSubviews",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "shouldAutorotate",
+            "printedName": "shouldAutorotate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@Jockisye@objc(cs)MCReportDataViewController(py)shouldAutorotate",
+            "mangledName": "$s8Jockisye26MCReportDataViewControllerC16shouldAutorotateSbvp",
+            "moduleName": "Jockisye",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "shouldAutorotate",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@Jockisye@objc(cs)MCReportDataViewController(im)shouldAutorotate",
+                "mangledName": "$s8Jockisye26MCReportDataViewControllerC16shouldAutorotateSbvg",
+                "moduleName": "Jockisye",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "shouldAutorotate",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "supportedInterfaceOrientations",
+            "printedName": "supportedInterfaceOrientations",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIInterfaceOrientationMask",
+                "printedName": "UIKit.UIInterfaceOrientationMask",
+                "usr": "c:@E@UIInterfaceOrientationMask"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@Jockisye@objc(cs)MCReportDataViewController(py)supportedInterfaceOrientations",
+            "mangledName": "$s8Jockisye26MCReportDataViewControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvp",
+            "moduleName": "Jockisye",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "supportedInterfaceOrientations",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIInterfaceOrientationMask",
+                    "printedName": "UIKit.UIInterfaceOrientationMask",
+                    "usr": "c:@E@UIInterfaceOrientationMask"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@Jockisye@objc(cs)MCReportDataViewController(im)supportedInterfaceOrientations",
+                "mangledName": "$s8Jockisye26MCReportDataViewControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvg",
+                "moduleName": "Jockisye",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "supportedInterfaceOrientations",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MCReportDataViewController",
+                "printedName": "Jockisye.MCReportDataViewController",
+                "usr": "c:@M@Jockisye@objc(cs)MCReportDataViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Jockisye@objc(cs)MCReportDataViewController(im)initWithNibName:bundle:",
+            "mangledName": "$s8Jockisye26MCReportDataViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "Jockisye",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Jockisye.MCReportDataViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MCReportDataViewController",
+                    "printedName": "Jockisye.MCReportDataViewController",
+                    "usr": "c:@M@Jockisye@objc(cs)MCReportDataViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Jockisye@objc(cs)MCReportDataViewController(im)initWithCoder:",
+            "mangledName": "$s8Jockisye26MCReportDataViewControllerC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "Jockisye",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@Jockisye@objc(cs)MCReportDataViewController",
+        "mangledName": "$s8Jockisye26MCReportDataViewControllerC",
+        "moduleName": "Jockisye",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UserDefaults",
+        "printedName": "UserDefaults",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "setModel",
+            "printedName": "setModel(_:forKey:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GenericTypeParam",
+                "printedName": "τ_0_0"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So14NSUserDefaultsC8JockisyeE8setModel_6forKeyyx_SStSeRzSERzlF",
+            "mangledName": "$sSo14NSUserDefaultsC8JockisyeE8setModel_6forKeyyx_SStSeRzSERzlF",
+            "moduleName": "Jockisye",
+            "genericSig": "<τ_0_0 where τ_0_0 : Swift.Decodable, τ_0_0 : Swift.Encodable>",
+            "sugared_genericSig": "<T where T : Swift.Decodable, T : Swift.Encodable>",
+            "isOpen": true,
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getModel",
+            "printedName": "getModel(_:forKey:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "τ_0_0?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Metatype",
+                "printedName": "τ_0_0.Type",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:So14NSUserDefaultsC8JockisyeE8getModel_6forKeyxSgxm_SStSeRzSERzlF",
+            "mangledName": "$sSo14NSUserDefaultsC8JockisyeE8getModel_6forKeyxSgxm_SStSeRzSERzlF",
+            "moduleName": "Jockisye",
+            "genericSig": "<τ_0_0 where τ_0_0 : Swift.Decodable, τ_0_0 : Swift.Encodable>",
+            "sugared_genericSig": "<T where T : Swift.Decodable, T : Swift.Encodable>",
+            "isOpen": true,
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:objc(cs)NSUserDefaults",
+        "moduleName": "Foundation",
+        "isOpen": true,
+        "objc_name": "NSUserDefaults",
+        "declAttributes": [
+          "ObjC",
+          "NonSendable",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIColor",
+        "printedName": "UIColor",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(hex:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:So7UIColorC8JockisyeE3hexABSS_tcfc",
+            "mangledName": "$sSo7UIColorC8JockisyeE3hexABSS_tcfc",
+            "moduleName": "Jockisye",
+            "declAttributes": [
+              "Convenience"
+            ],
+            "isFromExtension": true,
+            "init_kind": "Convenience"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIColor",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIColor",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "SynthesizedProtocol",
+          "NonSendable",
+          "Sendable",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByColorLiteral",
+            "printedName": "_ExpressibleByColorLiteral",
+            "usr": "s:s26_ExpressibleByColorLiteralP",
+            "mangledName": "$ss26_ExpressibleByColorLiteralP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/Jniucuos.swift",
+      "kind": "Array",
+      "offset": 1066,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/Jniucuos.swift",
+      "kind": "Dictionary",
+      "offset": 1489,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/Tcocjuss.swift",
+      "kind": "StringLiteral",
+      "offset": 568,
+      "length": 98,
+      "value": "\"4uDjt+u157Xh4+Xg5+Hut7qMp6C8o7qjsuz84+PjsrDj4eCw4eXktebl\/LiwvL78p7a9\/aegvKO6o7L9uLC8vvz86aCjp6e7\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/Tcocjuss.swift",
+      "kind": "StringLiteral",
+      "offset": 1555,
+      "length": 6,
+      "value": "\"l5o=\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/Tcocjuss.swift",
+      "kind": "StringLiteral",
+      "offset": 1576,
+      "length": 6,
+      "value": "\"nYU=\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/Tcocjuss.swift",
+      "kind": "StringLiteral",
+      "offset": 1597,
+      "length": 6,
+      "value": "\"m4M=\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/Tcocjuss.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2992,
+      "length": 10,
+      "value": "1781511384"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/Tcocjuss.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3168,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/Tcocjuss.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3677,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/Tcocjuss.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4105,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/Tcocjuss.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4206,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/WhiskerlyGameView.swift",
+      "kind": "StringLiteral",
+      "offset": 68,
+      "length": 15,
+      "value": "\"Crusty Cheese\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/WhiskerlyGameView.swift",
+      "kind": "StringLiteral",
+      "offset": 108,
+      "length": 15,
+      "value": "\"Rusty Jangler\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/WhiskerlyGameView.swift",
+      "kind": "StringLiteral",
+      "offset": 148,
+      "length": 15,
+      "value": "\"Gleaming Seed\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/WhiskerlyGameView.swift",
+      "kind": "StringLiteral",
+      "offset": 190,
+      "length": 17,
+      "value": "\"Homely Keystone\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/WhiskerlyGameView.swift",
+      "kind": "StringLiteral",
+      "offset": 235,
+      "length": 19,
+      "value": "\"Sweet Bumble Drop\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/WhiskerlyGameView.swift",
+      "kind": "Array",
+      "offset": 801,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/WhiskerlyGameView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 890,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/WhiskerlyGameView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 924,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/WhiskerlyGameView.swift",
+      "kind": "Array",
+      "offset": 7139,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/WhiskerlyGameView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16666,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/Jicnis.swift",
+      "kind": "StringLiteral",
+      "offset": 293,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/26\/06-Sport\/0613-2\/Jockisye\/Jockisye\/MCReportDataViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2028,
+      "length": 4,
+      "value": "true"
+    }
+  ]
+}
